@@ -3,6 +3,6 @@ In this project, I have clustered countries using some socio-economic and health
 
 I have used K-means and Hierarchical algorithms for performing clustering. 
 
-I have attached python notebook,dataset,data_dictionary and final presentation.
+I have attached python notebook,dataset,data dictionary and final presentation.
 
 
